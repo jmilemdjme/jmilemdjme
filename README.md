@@ -63,23 +63,6 @@ I'm interested in collaborating with developers, exchanging ideas, and contribut
 
 This section will grow as I turn ideas, experiments, and solutions into public projects. I'd rather share work that is useful and well understood than publish projects just to fill a list.
 
-## GitHub Statistics
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jmilemdjme&show_icons=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=C0392B&icon_color=C0392B&text_color=C9D1D9" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmilemdjme&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=C0392B&text_color=C9D1D9" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jmilemdjme&hide_border=true&background=00000000&ring=C0392B&fire=C0392B&currStreakLabel=C0392B&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak statistics" />
-</div>
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jmilemdjme&bg_color=00000000&color=C9D1D9&line=C0392B&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
-</div>
-
 ---
 
 <div align="center">
